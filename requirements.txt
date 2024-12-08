@@ -1,0 +1,7 @@
+dask[dataframe]
+dask[distributed]
+s3fs
+jupyter
+notebook
+bokeh>=3.1.0
+graphviz
