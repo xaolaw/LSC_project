@@ -1,0 +1,30 @@
+{
+    "python.envFile": "${workspaceFolder}/.venv",
+    "workbench.colorTheme": "Gruvbox Dark (Hard)",
+    "workbench.statusBar.visible": true,
+    "editor.lineNumbers": "on",
+    "todohighlight.isEnable": true,
+    "todohighlight.keywords": [
+        {
+            "text": "TODO:",
+            "color": "red",
+            "backgroundColor": "rgba(0,0,0,0)"
+        },
+        {
+            "text": "NOTE:",
+            "color": "#6666ff",
+            "backgroundColor": "rgba(0,0,0,0)"
+        },
+        {
+            "text": "TEST:",
+            "color": "#ff6600",
+            "backgroundColor": "rgba(0,0,0,0)"
+        }
+    ],
+    "todohighlight.defaultStyle": {
+        "color": "red",
+        "backgroundColor": "ffab00",
+        "overviewRulerColor": "rgba(0,0,0,0)",
+        "isWholeLine": false
+    }
+}

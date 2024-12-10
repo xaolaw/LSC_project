@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "ms-toolsai.jupyter",
+        "ms-python.python",
+        "ms-python.debugpy",
+        "tomphilbin.gruvbox-themes",
+        "wayou.vscode-todo-highlight"
+    ]
+}
