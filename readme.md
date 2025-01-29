@@ -8,7 +8,7 @@ Dask to elastyczna biblioteka Python, zaprojektowana do obsługi dużych zbioró
 - Skalowalność: Może działać lokalnie (na jednym komputerze) lub w środowiskach rozproszonych, takich jak chmury (np. AWS, GCP).
 
 <p align="center">
-  <img src="images/readme/Możliwości_w_dask.png" width="500">
+  <img src="./images/readme/Możliwości_w_dask.png" width="500">
 </p>
 
 ## Big pandas
@@ -18,7 +18,7 @@ Dask DataFrame to odpowiednik pandas, który pozwala na pracę z danymi większy
 - Wsparcie dla formatów big data: Obsługuje Parquet, CSV
 
 <p align="center">
-  <img src="images/readme/big_pandas.png" width="500">
+  <img src="./images/readme/big_pandas.png" width="500">
 </p>
 
 ## Big array
@@ -28,7 +28,7 @@ Dask Array to rozszerzenie dla NumPy, przystosowane do pracy z danymi wielowymia
 - Obsługa macierzy wielowymiarowych: Przydatne w analizie danych obrazowych, symulacjach i modelowaniu numerycznym.
 
 <p align="center">
-  <img src="images/readme/big_array.png" width="500">
+  <img src="./images/readme/big_array.png" width="500">
 </p>
 
 ## Parallel coding w dask
@@ -39,7 +39,7 @@ Dask umożliwia prostą paralelizację kodu za pomocą:
 - Zintegrowane schedulery: Dask automatycznie dopasowuje strategię wykonywania zadań do środowiska.
 
 <p align="center">
-  <img src="images/readme/parallel_coding_w_dask.png" width="500">
+  <img src="./images/readme/parallel_coding_w_dask.png" width="500">
 </p>
 
 ## Uruchomienie daska na Athenie
@@ -77,8 +77,8 @@ Niestety nie udało się osiągnąć pożądanego wyniku i pojedyncze wątki dla
 
 ## Wynik czasowe
 <p align="center">
-  <img src="images/readme/wyniki_czasowe_1.png" width="500">
+  <img src="./images/readme/wyniki_czasowe_1.png" width="500">
 </p>
 <p align="center">
-  <img src="images/readme/wyniki_czasowe_2.png" width="500">
+  <img src="./images/readme/wyniki_czasowe_2.png" width="500">
 </p>
