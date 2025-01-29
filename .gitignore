@@ -2,6 +2,5 @@
 data
 coverage
 .visualizations
-*.png
 *.svg
 *.jpg
